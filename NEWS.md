@@ -92,8 +92,13 @@
       - `addLag()` adds a lag time to the a compartment
 
 * Add Carlsson Petri (2021) liraglutide PK model
+* Add a variety of indirect response models
+* Add a variety of tumor growth inhibition models and move all oncology models
+  into a new model database directory
 * `cp` and related `cpddSd` and `cppropSd` were renamed to `Cc`, `CcAddSd` and
   `CcPropSd` (fix #70).
+* Multiple-endpoint models will have the `DV` column in the modeldb separated by
+  commas.
 
 # Version 0.2.0
 

@@ -5,7 +5,7 @@
 \alias{modeldb}
 \title{Model library for nlmixr2}
 \format{
-An object of class \code{data.frame} with 17 rows and 9 columns.
+An object of class \code{data.frame} with 41 rows and 9 columns.
 }
 \usage{
 modeldb
